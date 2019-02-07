@@ -1,0 +1,14 @@
+{
+  "name": "lazy-component-maker",
+  "version": "1.0.0",
+  "description": "Easy create vue components",
+  "bin": {
+    "lazy-vue": "./bin/maker.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.2"
+  }
+}
